@@ -1,0 +1,12 @@
+@import '../../sass-globals/colors.scss';
+
+.banner{
+    width: 100vh;
+}
+.regards {
+    color: $body-color;
+    border: 1px $body-color solid;
+    width: 100%;
+    font-family: "montserratregular";
+    font-size: 2rem;
+  }
